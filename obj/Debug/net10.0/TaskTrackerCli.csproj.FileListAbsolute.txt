@@ -1,0 +1,14 @@
+D:\Metigator\Projects\TaskTrackerCli\bin\Debug\net10.0\TaskTrackerCli.exe
+D:\Metigator\Projects\TaskTrackerCli\bin\Debug\net10.0\TaskTrackerCli.deps.json
+D:\Metigator\Projects\TaskTrackerCli\bin\Debug\net10.0\TaskTrackerCli.runtimeconfig.json
+D:\Metigator\Projects\TaskTrackerCli\bin\Debug\net10.0\TaskTrackerCli.dll
+D:\Metigator\Projects\TaskTrackerCli\bin\Debug\net10.0\TaskTrackerCli.pdb
+D:\Metigator\Projects\TaskTrackerCli\obj\Debug\net10.0\TaskTrackerCli.GeneratedMSBuildEditorConfig.editorconfig
+D:\Metigator\Projects\TaskTrackerCli\obj\Debug\net10.0\TaskTrackerCli.AssemblyInfoInputs.cache
+D:\Metigator\Projects\TaskTrackerCli\obj\Debug\net10.0\TaskTrackerCli.AssemblyInfo.cs
+D:\Metigator\Projects\TaskTrackerCli\obj\Debug\net10.0\TaskTrackerCli.csproj.CoreCompileInputs.cache
+D:\Metigator\Projects\TaskTrackerCli\obj\Debug\net10.0\TaskTrackerCli.dll
+D:\Metigator\Projects\TaskTrackerCli\obj\Debug\net10.0\refint\TaskTrackerCli.dll
+D:\Metigator\Projects\TaskTrackerCli\obj\Debug\net10.0\TaskTrackerCli.pdb
+D:\Metigator\Projects\TaskTrackerCli\obj\Debug\net10.0\TaskTrackerCli.genruntimeconfig.cache
+D:\Metigator\Projects\TaskTrackerCli\obj\Debug\net10.0\ref\TaskTrackerCli.dll
