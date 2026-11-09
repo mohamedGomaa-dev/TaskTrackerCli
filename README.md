@@ -2,6 +2,8 @@
 
 A lightweight, colorful command-line interface (CLI) application built in C# (.NET) to easily manage your daily tasks directly from your terminal. Tasks are persistently stored locally using JSON.
 
+> This project is built as a solution to the [roadmap.sh Task Tracker Project](https://roadmap.sh/projects/task-tracker).
+
 ---
 
 ## ✨ Features
